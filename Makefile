@@ -27,7 +27,7 @@
 # policies, either expressed or implied, of Vincent Driessen.
 #
 
-prefix=/usr/local
+prefix=$(HOME)
 
 # files that need mode 755
 EXEC_FILES=git-flow
